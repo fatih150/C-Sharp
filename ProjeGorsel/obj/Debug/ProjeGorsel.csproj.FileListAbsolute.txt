@@ -1,0 +1,10 @@
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\bin\Debug\ProjeGorsel.exe.config
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\bin\Debug\ProjeGorsel.exe
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\bin\Debug\ProjeGorsel.pdb
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\obj\Debug\ProjeGorsel.csproj.AssemblyReference.cache
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\obj\Debug\ProjeGorsel.Form1.resources
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\obj\Debug\ProjeGorsel.Properties.Resources.resources
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\obj\Debug\ProjeGorsel.csproj.GenerateResource.cache
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\obj\Debug\ProjeGorsel.csproj.CoreCompileInputs.cache
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\obj\Debug\ProjeGorsel.exe
+C:\Users\mega_\source\repos\ProjeGorsel\ProjeGorsel\obj\Debug\ProjeGorsel.pdb
